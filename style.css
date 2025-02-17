@@ -55,6 +55,7 @@ body {
 }
 
 .dropdown-menu {
+  background-color: white;
   border: none;
   -webkit-box-shadow: 5px 5px 31px -13px rgba(189, 189, 189, 1);
   -moz-box-shadow: 5px 5px 31px -13px rgba(189, 189, 189, 1);
@@ -130,6 +131,12 @@ body {
 }
 
 .shots-button {
+  font-size: 14px;
+  color: black;
+  margin-left: 180px;
+}
+
+.shots-button:hover {
   font-size: 14px;
   color: black;
   margin-left: 180px;
